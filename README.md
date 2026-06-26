@@ -80,7 +80,7 @@ Center-screen combat alerts with priority handling and anti-spam protection.
 
 Drag-and-drop icon placement with persistent saved positions.
 
-Coolinator-Wrath v1.2.4 — Smart Proc Audit Update
+**Coolinator-Wrath v1.2.4 — Smart Proc Audit Update**
 
 This update builds on the v1.2.0 Combat Awareness release with major cleanup to hotbar handling, proc filtering, and smart-proc recommendation behavior.
 
